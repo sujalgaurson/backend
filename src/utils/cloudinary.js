@@ -41,3 +41,5 @@ import fs from 'fs';
     
     console.log(autoCropUrl);    
 })();
+
+export default uploadResult;
